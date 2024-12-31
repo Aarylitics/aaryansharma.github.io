@@ -1,0 +1,25 @@
+title: Aaryan's Blog!
+description: >- 
+  A blog where I share my projects, cooking recipes, and favorite moments!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://aaryansharma.github.io" # the base hostname & protocol for your site
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Author settings
+author:
+  name: Aaryan Sharma
+  email: aaryan@example.com
+
+# Social links
+social:
+  twitter: aaryan_twitter
+  github: aaryansharma
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
